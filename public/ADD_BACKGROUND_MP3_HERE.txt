@@ -1,0 +1,13 @@
+⚠️ REMINDER: Add your background music file here!
+
+Rename your audio file to: background.mp3
+Place it in this public/ folder.
+
+Recommended: A track that starts moody/ambient and transitions to warm/hopeful.
+
+Free sources:
+- Pixabay (pixabay.com/music)
+- Free Music Archive (freemusicarchive.org)
+- YouTube Audio Library
+
+After adding the file, delete this .txt file.
